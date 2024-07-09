@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: plum;
+}
+
+.navbar ul{
+    display: flex;
+
+}
+
+.navbar li{
+    display: flex;
+    list-style: none;
+    color: white;
+    padding: 15px;
+    font-size: x-large;
+}
